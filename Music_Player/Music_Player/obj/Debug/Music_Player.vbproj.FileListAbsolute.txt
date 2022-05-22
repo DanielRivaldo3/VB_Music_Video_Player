@@ -1,0 +1,45 @@
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\bin\Debug\Music_Player.exe.config
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\bin\Debug\Music_Player.exe
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\bin\Debug\Music_Player.pdb
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\bin\Debug\Music_Player.xml
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\obj\Debug\Music_Player.vbproj.ResolveComReference.cache
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\obj\Debug\Music_Player.Resources.resources
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\obj\Debug\Music_Player.vbproj.GenerateResource.Cache
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\obj\Debug\Music_Player.exe
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\obj\Debug\Music_Player.xml
+C:\Users\Data\AppData\Local\Temporary Projects\Music_Player\obj\Debug\Music_Player.pdb
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\bin\Debug\Music_Player.exe.config
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\obj\Debug\Interop.WMPLib.dll
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\obj\Debug\AxInterop.WMPLib.dll
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\obj\Debug\Music_Player.vbproj.ResolveComReference.cache
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\obj\Debug\Music_Player.exe
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\obj\Debug\Music_Player.xml
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\obj\Debug\Music_Player.pdb
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\bin\Debug\Music_Player.exe
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\bin\Debug\Music_Player.pdb
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\bin\Debug\Music_Player.xml
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\bin\Debug\Interop.WMPLib.dll
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\bin\Debug\AxInterop.WMPLib.dll
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\obj\Debug\Music_Player.Form1.resources
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\obj\Debug\Music_Player.Resources.resources
+F:\Personal Branding\Visual Basic\Music Player\Music_Player\Music_Player\obj\Debug\Music_Player.vbproj.GenerateResource.Cache
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\bin\Debug\Music_Player.exe.config
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\obj\Debug\Interop.WMPLib.dll
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\obj\Debug\AxInterop.WMPLib.dll
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\obj\Debug\Music_Player.vbproj.ResolveComReference.cache
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\obj\Debug\Music_Player.exe
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\obj\Debug\Music_Player.xml
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\obj\Debug\Music_Player.pdb
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\bin\Debug\Music_Player.exe
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\bin\Debug\Music_Player.pdb
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\bin\Debug\Music_Player.xml
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\bin\Debug\Interop.WMPLib.dll
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\bin\Debug\AxInterop.WMPLib.dll
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\obj\Debug\Music_Player.Form1.resources
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\obj\Debug\Music_Player.Resources.resources
+F:\Personal Branding\Visual Basic\Music_Player\Music_Player\obj\Debug\Music_Player.vbproj.GenerateResource.Cache
